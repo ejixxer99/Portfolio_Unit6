@@ -2,5 +2,39 @@
       text-align: center;
       background: teal; 
       background-size: cover;
-      color: white; 
+      color: white;
+      font-size: 100px;
  }
+ 
+    h2 {
+        text-align:center;
+        color:teal;
+        background:black;
+        
+        
+    }
+    
+    h4 {
+        font-size:30px;
+        text-align: center;
+        color: teal;
+        background: black;
+     } 
+    h3{
+        font-size:15px;
+        background:yellow;
+        
+        }
+        
+    h5{ 
+        font-size:17;
+        background:yellow;
+
+    }
+    
+    h6{
+        
+        font-size:17;
+        
+    } 
+    

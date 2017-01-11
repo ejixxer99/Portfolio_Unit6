@@ -5,7 +5,7 @@
       color: white;
     }
     .nav {
-      color: white;
+      color: White ;
     }
     h1 {
       font-size: 70px;
@@ -27,6 +27,7 @@
       max-width: 500px;
       padding: 20px;
       margin: 0 auto;
+      background-color:aqua;
     }
     @media (max-width: 500px) {
       h1 {

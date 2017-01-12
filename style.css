@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background:url(matrix-system-fail_2784216b.jpg);
       background-size: cover;
       color: white;
     }
@@ -12,7 +12,7 @@
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
+      border: 7px black;
       border-radius: 20px;
     }
     ul {
@@ -25,9 +25,9 @@
     }
     div{
       max-width: 500px;
-      padding: 20px;
-      margin: 0 auto;
-      background-color:aqua;
+      padding: 70px;
+      margin:  auto;
+      background:green;
     }
     @media (max-width: 500px) {
       h1 {
@@ -38,4 +38,7 @@
         padding: 5px;
         display: block;
       }
+      
+      
+  h2 {text:white;}
     }
